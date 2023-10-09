@@ -1,0 +1,6 @@
+dropbox_sign==1.1.1
+instructor==0.2.8
+openai==0.28.1
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+streamlit==1.24.1
