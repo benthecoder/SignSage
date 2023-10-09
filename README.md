@@ -1,6 +1,10 @@
 # SignSage
 
+![logo](img/logo.jpeg)
+
 Built for the [Dropbox Sign AI-Powered Agreements Hackathon](https://dropboxhackathon2023.devpost.com/)
+
+Devpost Link: https://devpost.com/software/signsage
 
 ## Overview
 
